@@ -1,2 +1,3 @@
 # animalWebsite
-Simple full-stack website that offers users to view the different animals information and to pay for tickets. ( Exam work )
+Currently not the most up-to-date one
+Start a server with the db, not db is provided for you, to run code
